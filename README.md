@@ -57,6 +57,9 @@ JavaScript & NodeJS Snippets for Atom.
 
 ![package GIF](jsnippets.gif)
 
+## [es6-javascript](https://atom.io/packages/es6-javascript)
+
+A collection of commands and ES6 focused snippets for optimizing modern Javascript development productivity.
 
 ## Linters
 
